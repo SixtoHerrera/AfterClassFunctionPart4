@@ -30,4 +30,5 @@ def num_within(num, str_range, end_range):
 
 def pascal(n):
   
-#  I don't have an idea not even how to start this one :(  and dont want to use the AI or solution codes I got, ill keep researching
+#  I don't have an idea not even how to start this one and dont want to use the AI or solution codes I got, ill keep
+#trying to understand it
